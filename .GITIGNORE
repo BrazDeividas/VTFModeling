@@ -1,0 +1,4 @@
+/data/road_data/*
+/data/sensor_data/*
+/src/__pycache__/*
+/src/cache/*
